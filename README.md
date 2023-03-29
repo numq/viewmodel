@@ -18,7 +18,8 @@ implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutinesVersion
 
 ### Usage examples
 
-- [Stash](https://github.com/numq/Stash) - Jetpack Compose Desktop
+- [Stash Android](https://github.com/numq/stash)
+- [Stash Desktop](https://github.com/numq/stash-desktop)
 
 ### Koin injection
 
